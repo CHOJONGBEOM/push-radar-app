@@ -1,22 +1,28 @@
 {
   "name": "push-collector-app",
-  "version": "1.0.0",
-  "main": "index.ts",
+  "version": "1.1.0",
+  "main": "index.js",
   "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web"
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "build:release": "cd android && ./gradlew assembleRelease",
+    "postinstall": "patch-package"
   },
   "dependencies": {
-    "expo": "~54.0.33",
-    "expo-status-bar": "~3.0.9",
-    "react": "19.1.0",
-    "react-native": "0.81.5"
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@supabase/supabase-js": "^2.94.1",
+    "react": "18.2.0",
+    "react-native": "0.74.5",
+    "react-native-android-installed-apps": "^1.0.1",
+    "react-native-android-notification-listener": "^5.0.1",
+    "react-native-url-polyfill": "^3.0.0"
   },
   "devDependencies": {
-    "@types/react": "~19.1.0",
-    "typescript": "~5.9.2"
+    "@react-native-community/cli": "^13.6.9",
+    "@react-native/metro-config": "^0.74.87",
+    "@types/react": "^18.2.0",
+    "patch-package": "^8.0.1",
+    "typescript": "~5.3.3"
   },
   "private": true
 }
