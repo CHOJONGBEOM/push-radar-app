@@ -27,7 +27,7 @@ Supabase에 upsert (중복 메시지 자동 무시)
 
 - **선택적 수집** : 기기에 설치된 앱 목록을 자동으로 탐색하고, 수집할 앱을 사용자가 직접 선택
 - **중복 방지** : `package_name + body + posted_at + device_id` 조합으로 동일 메시지 재저장 방지
-- **AI 분류** : Gemini API를 통해 메시지 유형과 키워드를 자동 태깅
+- **AI 분류** : OpenAi API를 통해 메시지 유형과 키워드를 자동 태깅
 - **백그라운드 동작** : WorkManager + Foreground Service로 앱이 꺼져 있어도 수집 유지
 - **소프트 삭제** : 민감하거나 불필요한 메시지는 `is_hidden` 플래그로 숨김 처리
 
