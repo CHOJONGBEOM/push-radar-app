@@ -1,0 +1,48 @@
+{
+  "buildFiles": [
+    "C:\\workspace\\push-collector-app\\node_modules\\@react-native-async-storage\\async-storage\\android\\build\\generated\\source\\codegen\\jni\\CMakeLists.txt",
+    "C:\\workspace\\push-collector-app\\node_modules\\react-native\\ReactAndroid\\cmake-utils\\default-app-setup\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\JB\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\workspace\\push-collector-app\\android\\app\\.cxx\\Debug\\5n6q2o3o\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\JB\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\workspace\\push-collector-app\\android\\app\\.cxx\\Debug\\5n6q2o3o\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "appmodules",
+      "output": "C:\\workspace\\push-collector-app\\android\\app\\build\\intermediates\\cxx\\Debug\\5n6q2o3o\\obj\\x86_64\\libappmodules.so",
+      "runtimeFiles": [
+        "C:\\Users\\JB\\.gradle\\caches\\9.0.0\\transforms\\0801d9e535e0a5a17d0159e83d1d36be\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.x86_64\\libfbjni.so",
+        "C:\\Users\\JB\\.gradle\\caches\\9.0.0\\transforms\\ff1440df0462ae09d1789242381cbdb9\\transformed\\react-android-0.81.5-debug\\prefab\\modules\\jsi\\libs\\android.x86_64\\libjsi.so",
+        "C:\\Users\\JB\\.gradle\\caches\\9.0.0\\transforms\\ff1440df0462ae09d1789242381cbdb9\\transformed\\react-android-0.81.5-debug\\prefab\\modules\\reactnative\\libs\\android.x86_64\\libreactnative.so"
+      ]
+    },
+    "react_codegen_rnasyncstorage::@1596841e19ec5b9eeffe": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "react_codegen_rnasyncstorage"
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "C:\\Users\\JB\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "C:\\Users\\JB\\AppData\\Local\\Android\\Sdk\\ndk\\27.1.12297006\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

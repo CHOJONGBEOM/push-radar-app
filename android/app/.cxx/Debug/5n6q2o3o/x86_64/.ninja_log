@@ -1,0 +1,25 @@
+# ninja log v5
+3	99	0	C:/workspace/push-collector-app/android/app/.cxx/Debug/5n6q2o3o/x86_64/CMakeFiles/cmake.verify_globs	b7a8a62784a6083f
+91	3663	7920084855198396	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o	bbe8fd7993c9049c
+98	1931	7920094161620159	build.ninja	fce80ee47d2ed52d
+44	4114	7920084859730094	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	e6198d9fc120cdc3
+67	4887	7920084867385038	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o	1998ccd5f89911b5
+104	4919	7920084867684557	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o	7f6d6238832581f1
+80	5391	7920084872460486	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o	1885a1d2baec48bf
+56	4976	7920084868341760	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o	147194676405b7
+32	5591	7920084874461106	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o	4831373553ed9f37
+22	5379	7920084872341178	CMakeFiles/appmodules.dir/C_/workspace/push-collector-app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ac0ad677dc0484eb
+11	5761	7920084876089330	CMakeFiles/appmodules.dir/OnLoad.cpp.o	34dba13c402b28db
+5761	6051	7920084879104541	C:/workspace/push-collector-app/android/app/build/intermediates/cxx/Debug/5n6q2o3o/obj/x86_64/libappmodules.so	f2da10695f72a02
+0	91	0	clean	2f0b5691703be134
+3	89	0	C:/workspace/push-collector-app/android/app/.cxx/Debug/5n6q2o3o/x86_64/CMakeFiles/cmake.verify_globs	b7a8a62784a6083f
+66	5544	7920094223017419	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/States.cpp.o	bbe8fd7993c9049c
+51	6168	7920094229194186	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/EventEmitters.cpp.o	e6198d9fc120cdc3
+108	7116	7920094238687696	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/rnasyncstorageJSI-generated.cpp.o	1998ccd5f89911b5
+124	7258	7920094240017855	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/rnasyncstorage-generated.cpp.o	7f6d6238832581f1
+79	7307	7920094240646478	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/Props.cpp.o	147194676405b7
+17	7775	7920094245313137	CMakeFiles/appmodules.dir/C_/workspace/push-collector-app/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ac0ad677dc0484eb
+94	7935	7920094246958612	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ShadowNodes.cpp.o	1885a1d2baec48bf
+39	8045	7920094248073404	rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir/react/renderer/components/rnasyncstorage/ComponentDescriptors.cpp.o	4831373553ed9f37
+28	8255	7920094250035684	CMakeFiles/appmodules.dir/OnLoad.cpp.o	34dba13c402b28db
+8256	8580	7920094253524066	C:/workspace/push-collector-app/android/app/build/intermediates/cxx/Debug/5n6q2o3o/obj/x86_64/libappmodules.so	f2da10695f72a02

@@ -1,0 +1,33 @@
+diff --git a/node_modules/react-native-android-installed-apps/android/build.gradle b/node_modules/react-native-android-installed-apps/android/build.gradle
+index 09a6b5d..dd6618e 100644
+--- a/node_modules/react-native-android-installed-apps/android/build.gradle
++++ b/node_modules/react-native-android-installed-apps/android/build.gradle
+@@ -2,17 +2,14 @@
+ apply plugin: 'com.android.library'
+ 
+ android {
+-    compileSdkVersion 23
+-    buildToolsVersion "23.0.1"
++    compileSdkVersion 34
++    buildToolsVersion "34.0.0"
+ 
+     defaultConfig {
+-        minSdkVersion 16
+-        targetSdkVersion 22
++        minSdkVersion 23
++        targetSdkVersion 34
+         versionCode 1
+         versionName "1.0"
+-        ndk {
+-            abiFilters "armeabi-v7a", "x86"
+-        }
+     }
+     lintOptions {
+        warning 'InvalidPackage'
+@@ -20,5 +17,5 @@ android {
+ }
+ 
+ dependencies {
+-    compile 'com.facebook.react:react-native:0.20.+'
++    implementation 'com.facebook.react:react-native:+'
+ }

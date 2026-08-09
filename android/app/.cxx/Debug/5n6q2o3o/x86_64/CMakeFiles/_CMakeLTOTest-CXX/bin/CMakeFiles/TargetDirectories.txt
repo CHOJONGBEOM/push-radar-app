@@ -1,0 +1,4 @@
+C:/workspace/push-collector-app/android/app/.cxx/Debug/5n6q2o3o/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/foo.dir
+C:/workspace/push-collector-app/android/app/.cxx/Debug/5n6q2o3o/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/boo.dir
+C:/workspace/push-collector-app/android/app/.cxx/Debug/5n6q2o3o/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/edit_cache.dir
+C:/workspace/push-collector-app/android/app/.cxx/Debug/5n6q2o3o/x86_64/CMakeFiles/_CMakeLTOTest-CXX/bin/CMakeFiles/rebuild_cache.dir
